@@ -13,14 +13,13 @@ Dataset used in this project - [Home Sales Data](https://2u-data-curriculum-team
 
 **Query 1**: Average price for a four-bedroom house sold for each year
 
-`+----+---------+<br>
-|year|avg_price|<br>
-+----+---------+<br>
-|2019| 300263.7|<br>
-|2020|298353.78|<br>
-|2021|301819.44|<br>
-|2022|296363.88|<br>
-+----+---------+<br>`
+
+|year|avg_price|
+|----|---------|
+|2019| 300263.7|
+|2020|298353.78|
+|2021|301819.44|
+|2022|296363.88|
 
 **Query 2**: Average price of a home for each year it was built that has three bedrooms and three bathrooms
 

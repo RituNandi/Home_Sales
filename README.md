@@ -21,6 +21,7 @@ Dataset used in this project - [Home Sales Data](https://2u-data-curriculum-team
 |2021|301819.44|
 |2022|296363.88|
 
+<br>
 **Query 2**: Average price of a home for each year it was built that has three bedrooms and three bathrooms
 
 

@@ -13,14 +13,14 @@ Dataset used in this project - [Home Sales Data](https://2u-data-curriculum-team
 
 **Query 1**: Average price for a four-bedroom house sold for each year
 
-+----+---------+<br>
+`+----+---------+<br>
 |year|avg_price|<br>
 +----+---------+<br>
 |2019| 300263.7|<br>
 |2020|298353.78|<br>
 |2021|301819.44|<br>
 |2022|296363.88|<br>
-+----+---------+<br>
++----+---------+<br>`
 
 **Query 2**: Average price of a home for each year it was built that has three bedrooms and three bathrooms
 
@@ -79,10 +79,10 @@ Dataset used in this project - [Home Sales Data](https://2u-data-curriculum-team
 |  80| 991767.38|<br>
 +----+----------+<br>
 only showing top 20 rows<br>
-
-
+<br>
+<br>
 **Compare Run Times on Query 4**
 
-Uncache Runtime: 1.2677862644195557 seconds<br>
-Cached Runtime: 0.6058557033538818 seconds<br>
-Runtime with the parquet (Partition by the "date_built" field) DataFrame: 1.1717925071716309 seconds<br>
+1. Uncache Runtime: 1.2677862644195557 seconds<br>
+2. Cached Runtime: 0.6058557033538818 seconds<br>
+3. Runtime with the parquet (Partition by the "date_built" field) DataFrame: 1.1717925071716309 seconds<br>

@@ -22,6 +22,7 @@ Dataset used in this project - [Home Sales Data](https://2u-data-curriculum-team
 |2022|296363.88|
 
 <br>
+
 **Query 2**: Average price of a home for each year it was built that has three bedrooms and three bathrooms
 
 
@@ -35,6 +36,8 @@ Dataset used in this project - [Home Sales Data](https://2u-data-curriculum-team
 |      2015| 288770.3|
 |      2016|290555.07|
 |      2017|292676.79|
+
+<br>
 
 **Query 3**: Average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet
 
@@ -50,6 +53,7 @@ Dataset used in this project - [Home Sales Data](https://2u-data-curriculum-team
 |      2016| 293965.1|
 |      2017|280317.58|
 
+<br>
 
 **Query 4**: Average price of a home per "view" rating having an average home price greater than or equal to $350,000
 
@@ -79,6 +83,7 @@ Dataset used in this project - [Home Sales Data](https://2u-data-curriculum-team
 only showing top 20 rows<br>
 <br>
 <br>
+
 **Compare Run Times on Query 4**
 
 1. Uncache Runtime: 1.2677862644195557 seconds<br>
